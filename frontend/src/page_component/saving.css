@@ -1,0 +1,31 @@
+.para1 {
+    text-align: left;
+    font-size: 20px; /* Adjust the font size as needed */
+    width: 40%; /* Occupies 50% of the screen width */
+    float: left; /* Aligns to the left */
+    margin-top: 80px;
+    margin-left: 40px;
+    line-height: 1.6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.btnBack {
+    position: fixed;
+    bottom: 120px; /* Adjust the distance from the bottom */
+    right: 140px; /* Adjust the distance from the right */
+}
+
+.help {
+    position: fixed;
+    bottom: 10px; /* Adjust the distance from the bottom */
+    left: 10px; /* Adjust the distance from the left */
+}
+.all p{
+    color: white;
+}
+.imgafter{
+    position: absolute;
+    top:15%;
+    right: 5%;
+}

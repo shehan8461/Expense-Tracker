@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 10;
+    font-family: Arial, sans-serif;
+}
+
+.whenlogorsign {
+    max-width: 800px;
+    margin: 50px auto;
+    margin-left: 5%;
+    padding: 20px;
+    background-color:black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.whenlogorsign a {
+    text-decoration: none;
+}
+
+.whenlogorsign button {
+    background-color: pink;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    margin: 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.whenlogorsign button:hover {
+    background-color: #ff69b4; /* Lighter shade of pink */
+}
+
+.whenlogorsign h1 {
+    color: white;
+    font-size: 44px;
+    margin-bottom: 10px;
+}
+
+.whenlogorsign p {
+    color: white;
+    font-size: 20px;
+    margin-top: 0;
+}
+.imglanding{
+    
+        position: absolute;
+        left:70%;
+        top:40%;
+    
+}
+.imglanding1{
+    position: absolute;
+    left:65%;
+    top:40%;
+}

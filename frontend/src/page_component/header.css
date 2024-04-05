@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color:black;
+    color: #fff;
+    padding: 10px 20px;
+    margin-left: 80%;
+    margin-top: 5px;
+    width: 20%;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.header nav ul a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header nav ul a:hover {
+    color: pink;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-right: 30px;
+}

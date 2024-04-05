@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.add-income {
+    max-width: 600px;
+    margin: 50px auto;
+    margin-top: 10%;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.add-income a {
+    text-decoration: none;
+}
+
+.add-income button {
+    background-color:  #ff69b4;
+    color:  black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-income button:hover {
+    background-color:white; /* Lighter shade of pink */
+}
+
+.add-income h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.add-income form {
+    margin-top: 20px;
+}
+
+.add-income label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.add-income input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.nav-new{
+    position: absolute;
+    top:5%;
+ 
+}
+.value{
+    position: absolute;
+    top:15%;
+    background-color: white;
+    color: white;
+}
+.imgtarget{
+    position: absolute;
+    left:0%;
+    top:30%;
+}

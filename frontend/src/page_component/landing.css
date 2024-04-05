@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color:black;
+}
+
+.landing-page {
+    text-align: left;
+    margin: 60px auto;
+    margin-left: 5px;
+    max-width: 800px;
+    padding: 40px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.landing-page h1 {
+    color: pink;
+    font-size: 38px;
+}
+
+.landing-page p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.landing-page a {
+    text-decoration: none;
+}
+
+.landing-page button {
+    background-color: pink;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.landing-page button:hover {
+    background-color: #ff69b4; /* Lighter shade of pink */
+}
+
+.landing-page button:last-child {
+    margin-left: 10px;
+}
+.img{
+    position: absolute;
+    left:60%;
+    top:35%;
+}
+.img1{
+    position: absolute;
+    left:78%;
+    top:75%;
+}
+.imglogin{
+    position: absolute;
+    left:0%;
+    top:15%;
+}

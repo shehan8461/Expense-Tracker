@@ -1,0 +1,11 @@
+.whenlogorsign button {
+    background-color: pink;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    margin: 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

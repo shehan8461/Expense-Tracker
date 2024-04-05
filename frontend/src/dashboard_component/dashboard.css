@@ -1,0 +1,61 @@
+.expense-list,
+.income-list,
+.summarized {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: white;
+  width:25%;
+  margin-left: 5%;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+.income-list{
+    position: absolute;
+    left:35%;
+    top:5%;
+    width:25%;
+  
+}
+.summarized{
+    position: absolute;
+    left:20%;
+    top:48%;
+    background-color: rgb(221, 17, 177);
+}
+
+/* Style for the button */
+button {
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Style for the links */
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Style for the summarized text */
+.summarized {
+  text-align: center;
+}
+p{
+    color:black;
+}
+.nav-new button{
+    background-color:rgb(221, 17, 177);
+    color: black
+} 
+.nav-new button:hover{
+    background-color:white;
+    color: black
+} ;

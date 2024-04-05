@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.add-user {
+    background-color: #fff;
+    max-width: 450px;
+    margin: 50px auto;
+    margin-right: 45px;
+    margin-top: 10%;
+    padding: 35px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-user h2 {
+    text-align: center;
+    color: #333;
+}
+
+.add-user form {
+    margin-top: 20px;
+}
+
+.add-user label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.add-user input[type="text"],
+.add-user input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.add-user button {
+    background-color: #ff69b4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+.add-user button:hover {
+    background-color:black;
+    color: white; /* Lighter shade of pink */
+}
+#btn{
+    color:white;
+    background-color:#ff69b4;
+    width: 25%;
+    font-size: 20px;
+    
+    
+}
